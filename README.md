@@ -1,7 +1,9 @@
 # Medical Instrument Detection with YOLOv5 and Python
 
-![YOLOv5](https://raw.githubusercontent.com/ultralytics/yolov5/master/data/images/zidane.jpg)  
-*Example of object detection using YOLOv5.*
+<p align="center">
+  <img src="prediction.png" alt="YOLOv5">
+</p>
+
 
 ## 🚀 Project Overview
 
